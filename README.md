@@ -1,4 +1,4 @@
-# findFile - Função de Busca de Arquivos
+# FindFile - Função de Busca de Arquivos
 
 A função `findFile` permite procurar um arquivo específico dentro de um diretório e seus subdiretórios de forma recursiva. Ela verifica se o diretório fornecido é válido e retorna o caminho completo do arquivo se encontrado, ou `false` se não for encontrado.
 
